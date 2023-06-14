@@ -36,8 +36,7 @@ RUN apt-get -y update \
 
 #
 #	cd pwd
-#	make fclean
-#	make DEBUG=1
+#	make rebug
 #
 #	to run valgrind:
 #	valgrind --leak-check=full --show-leak-kinds=all ./[EXE]
